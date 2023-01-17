@@ -38,5 +38,5 @@ btn.addEventListener('click', ()=>{
         wallet.style.display='none'
         bg2.style.display = 'flex'
         logo.style.display = 'none'
-    },5500)
+    },5200)
 })
